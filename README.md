@@ -1,11 +1,11 @@
 # Exercício Consolelog - js
 ## Primeiros Passos
 
-### Criar um repositório no github
-### Executar o comando git clone no cmd (com a url do repositório criado)
-### Acessar a conta do npm (criada anteriormente) através do comando "npm login" (você irá receber um código de autenticação e o processo irá continuar logo após confirmar sua conta)
-### Logo após, executar o comando "npm init --scope@luizaribeiro", usando o seu nome/usuário como o escopo do projeto
-### Para acessar o VSCode, digite "code ." e conseguirá executar os comandos restantes no próprio terminal. Além de criar os arquivos de index e teste solicitados.
+- Criar um repositório no github
+- Executar o comando git clone no cmd (com a url do repositório criado)
+- Acessar a conta do npm (criada anteriormente) através do comando "npm login" (você irá receber um código de autenticação e o processo irá continuar logo após confirmar sua conta)
+- Logo após, executar o comando "npm init --scope@luizaribeiro", usando o seu nome/usuário como o escopo do projeto
+- Para acessar o VSCode, digite "code ." e conseguirá executar os comandos restantes no próprio terminal. Além de criar os arquivos de index e teste solicitados.
 
 ### Lembrando que é necessário publicar o módulo para conseguir acessar depois "npm publish --access public".
 
