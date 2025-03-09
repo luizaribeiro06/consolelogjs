@@ -1,4 +1,9 @@
 # Exercício Consolelog - js
+
+## Integrantes
+- Gabrielly Candido Camargo da Silva RM: 560916
+- Luiza Saraçol Ribeiro RM: 560200
+
 ## Primeiros Passos
 
 - Criar um repositório no github
