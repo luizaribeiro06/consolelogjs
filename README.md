@@ -3,6 +3,7 @@
 ## Integrantes
 - Gabrielly Candido Camargo da Silva RM: 560916
 - Luiza Saraçol Ribeiro RM: 560200
+- João Victor Ferreira RM: 560439
 
 ## Primeiros Passos
 
